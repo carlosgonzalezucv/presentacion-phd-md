@@ -1,0 +1,13 @@
+h1, h2, h3 {
+  font-family: Arial, Helvetica, sans-serif !important
+}
+
+.my-class {
+  background-color: lightgray;
+  padding: 30px 50px !important;
+  border-radius: 10px;
+  color: black
+}
+.content {
+  text-align: left;
+}
